@@ -1,4 +1,6 @@
-# hi There, zakiah # 👨‍💻 Software Engineer
+# hi There, zakiah 
+
+# 👨‍💻 Software Engineer
 
 - **Project Involvement:** Actively contributing to diverse projects, showcasing technical expertise and collaborative skills.
   
